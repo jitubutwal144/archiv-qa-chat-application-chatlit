@@ -1,0 +1,5 @@
+.env
+.vscode
+.chroma
+.chainlit
+__pycache__
